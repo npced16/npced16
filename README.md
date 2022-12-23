@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HyeonSeok, Kim 
-- 👀 I’m interested in front dev
-- 🌱 I’m currently learning vue3 , 
+<!-- - 👀 I’m interested in front dev -->
+<!-- - 🌱 I’m currently learning vue3   -->
 - 📫 How to reach me  khsms16@gmail.com
 
 <!---
