@@ -3,7 +3,7 @@
 <!-- - 🌱 I’m currently learning vue3   -->
 - 📫 How to reach me  khsms16@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16&show_icons=true&theme=dark&private_count=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npced16&theme=dark&count_private=true)
 <!---
 npced16/npced16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
