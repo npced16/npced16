@@ -4,7 +4,7 @@
 - 📫 How to reach me  khsms16@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16&show_icons=true&theme=dark&include_all_commits=true)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=npced16)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=npced16)(https://github.com/anuraghazra/github-readme-stats)
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npced16&count_private=true&include_all_commits=true)
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16)](https://github.com/anuraghazra/github-readme-stats)
