@@ -16,9 +16,6 @@ You can click the Preview link to take a look at your changes.
 <br /> 
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=npced16&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="npced16" style="padding-right:20px;" />
-</p>
 
 <br />
 <br />
@@ -84,3 +81,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=npced16&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=npced16&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="npced16" style="padding-right:20px;" />
+</p>
+
