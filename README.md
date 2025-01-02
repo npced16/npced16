@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<!--Trophies Section-->   
+<!--Trophies Section
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/npced16">
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 <br />
-
+-->   
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
