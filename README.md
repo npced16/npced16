@@ -83,6 +83,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=npced16&label=Profile%20views&color=brightgreen&style=for-the-badge&logo=star" alt="npced16" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=npced16&label=Profile%20views&color=brightgreen" alt="npced16" style="padding-right:20px;" />
 </p>
 
