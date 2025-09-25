@@ -48,6 +48,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=npced16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-⭐️ 제 프로젝트가 도움이 되셨다면 스타를 눌러주세요!
