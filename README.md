@@ -1,88 +1,53 @@
-<!-- - 👀 I’m interested in front dev -->
-<!-- - 🌱 I’m currently learning vue3   -->
-<!---
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npced16&theme=dark&count_private=true)
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npced16&count_private=true&include_all_commits=true)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npced16)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-npced16/npced16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ HyeonSeok Kim! 
-<!--*Digital Craftsman (Developer / Programmer)* -->
-<br /> 
+# 👋 안녕하세요! 김현석입니다.
 
-<!--Profile Count Badge-->
+3년차 프론트엔드 개발자로 다양한 플랫폼에서 사용자 경험을 개선하는 것을 좋아합니다.
 
-<br />
-<br />
+## 🛠️ 기술 스택
 
-<!--Trophies Section
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Android
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+## 📊 GitHub 통계
+
+
 <p align="center">
-  <a href="https://github.com/npced16">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=npced16&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=npced16&no-bg=true&row=2&column=6&margin-w=20&margin-h20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=npced16&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
--->   
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=npced16&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/npced16">
-          <img align="center" src="https://streak-stats.demolab.com?user=npced16&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/npced16/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=npced16&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/npced16">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=npced16&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=npced16&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=npced16&label=Profile%20views&color=brightgreen" alt="npced16" style="padding-right:20px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=npced16&show_icons=true&theme=radical"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npced16&layout=compact&theme=radical"/>
 </p>
 
+## 🏆 GitHub 트로피
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=npced16&theme=radical&column=7"/>
+</p>
+
+## 📫 연락처
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khsms16@naver.com)
+
+## 💼 관심 분야
+
+- 📱 크로스플랫폼 모바일 앱 개발
+- 🌐 반응형 웹 애플리케이션
+- 🎨 사용자 인터페이스 & 사용자 경험
+- 📈 성능 최적화
+- 🧪 새로운 기술 학습 및 적용
+
+## 📈 활동 그래프
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=npced16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+⭐️ 제 프로젝트가 도움이 되셨다면 스타를 눌러주세요!
