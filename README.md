@@ -26,12 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npced16&layout=compact&theme=radical"/>
 </p>
 
-## 🏆 GitHub 트로피
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=npced16&theme=radical&column=7"/>
-</p>
-
 ## 📫 연락처
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khsms16@naver.com)
