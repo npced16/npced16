@@ -28,7 +28,7 @@
 
 ## 📫 연락처
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khsms16@naver.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khsms16@naver.com)khsms16@naver.com
 
 ## 💼 관심 분야
 
