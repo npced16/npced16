@@ -11,13 +11,13 @@
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)<!--
 [Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-[Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)-->
+[Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)### Android
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)-->
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=android\&logoColor=white)
 ![Android (XML)](https://img.shields.io/badge/Android%20\(XML\)-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
-### Android
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ## 📊 GitHub 통계
 
