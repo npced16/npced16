@@ -41,7 +41,6 @@
 
 ### Mobile (Cross-platform)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-4A7BD0?style=flat&logo=flutter&logoColor=white)
 
 **경험**
@@ -49,16 +48,6 @@
   - 예약 플로우 설계 및 화면 구성
   - 상태 관리(Riverpod) 기반 구조 설계
   - 실제 사용자 기준 예외 상황 처리
-
----
-
-### Backend / API
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST%20API](https://img.shields.io/badge/REST%20API-000000?style=flat)
-
-**경험**
-- MongoDB 기반 데이터 처리 API **신규 구현**
-- 클라이언트 연동을 고려한 API 구조 설계
 
 ---
 
